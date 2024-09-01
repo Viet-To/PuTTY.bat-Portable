@@ -1,4 +1,7 @@
 # PuTTY.bat-Portable
+Script Version 1.0.1 2024-09-01
+
+
 This script is to automate these instructions @ https://documentation.help/PuTTY/config-file.html#S4.29  to make PuTTY portable between different computers.
 
 ## Instructions:
