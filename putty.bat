@@ -1,6 +1,7 @@
 @ECHO OFF
 REM This script is to automate these instructions @ https://documentation.help/PuTTY/config-file.html#S4.29
-REM Script Version 1.0
+REM Script Version 1.0.1 2024-09-01
+REM https://github.com/Viet-To/PuTTY.bat-Portable
 
 set ProgramName=PuTTY
 
